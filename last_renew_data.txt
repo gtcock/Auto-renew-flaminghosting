@@ -1,31 +1,4 @@
 Server ID: Unknown
 Renew status: Failed
-Last renewal time: 2025-01-03 00:31:08
-Error: An error occurred: Message: element click intercepted: Element <button class="Button__ButtonStyle-sc-1qu1gou-0 cDkCmT">...</button> is not clickable at point (1355, 412). Other element would receive the click: <iframe id="aswift_5" name="aswift_5" browsingtopics="true" style="width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="" height="" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/html/r20241212/r20190131/zrt_lookup.html#RS-0-&amp;adk=1812271808&amp;client=ca-pub-3308723074113679&amp;fa=8&amp;ifi=6&amp;uci=a!6" data-google-container-id="a!6" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="COOv-Z6m2IoDFamrjggdWNUHeQ" data-load-complete="true"></iframe>
-  (Session info: chrome=131.0.6778.140)
-Stacktrace:
-	GetHandleVerifier [0x00007FF7109D6CC5+28821]
-	(No symbol) [0x00007FF710943850]
-	(No symbol) [0x00007FF7107E578A]
-	(No symbol) [0x00007FF710840E8E]
-	(No symbol) [0x00007FF71083E92C]
-	(No symbol) [0x00007FF71083BAF6]
-	(No symbol) [0x00007FF71083AA51]
-	(No symbol) [0x00007FF71082CBA0]
-	(No symbol) [0x00007FF71085F2FA]
-	(No symbol) [0x00007FF71082C3F6]
-	(No symbol) [0x00007FF71085F510]
-	(No symbol) [0x00007FF71087F412]
-	(No symbol) [0x00007FF71085F0A3]
-	(No symbol) [0x00007FF71082A778]
-	(No symbol) [0x00007FF71082B8E1]
-	GetHandleVerifier [0x00007FF710D0FCCD+3408029]
-	GetHandleVerifier [0x00007FF710D2743F+3504143]
-	GetHandleVerifier [0x00007FF710D1B61D+3455469]
-	GetHandleVerifier [0x00007FF710A9BDCB+835995]
-	(No symbol) [0x00007FF71094EB6F]
-	(No symbol) [0x00007FF71094A824]
-	(No symbol) [0x00007FF71094A9BD]
-	(No symbol) [0x00007FF71093A1A9]
-	BaseThreadInitThunk [0x00007FFE90A54CB0+16]
-	RtlUserThreadStart [0x00007FFE920FEDCB+43]
+Last renewal time: 2025-01-03 16:12:31
+Error: An error occurred: Unable to login to dashboard
